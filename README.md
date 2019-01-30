@@ -12,9 +12,9 @@
 
 
 
-# morefnc
-Here is the new API.
-Merged in the future.
-
+# pigame morehw
+Here is new touchscreen support.
+## Additional support
+Coming soon...
 
 
